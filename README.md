@@ -4,7 +4,7 @@
 - 🔭 
 ## Technologies and Tools
 - Frontend
-•  Angular
+• Expert Angular
 • Ionic
 • React
 • Vuejs
@@ -12,6 +12,8 @@
 - Backend
 •  Node.js
 •  Laravel
+•  Django
+
 
 - DevOps
 •  Docker
