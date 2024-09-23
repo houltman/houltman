@@ -21,6 +21,9 @@ Bienvenido a mi portafolio. Aquí puedes encontrar algunos de mis proyectos y tr
 - [Listado de tareas con Ionic + Redux](https://todoionic-ngrx.netlify.app/)
   - Creación y eliminación de tareas empleando Ionic Standalone + Patrón Redux.
   - ***Deploy en netlify***
+ 
+- [Deploy Docker + caprover + laravel](https://github.com/houltman/caprover-laravel.git)
+  - Anexo repositorio, docker + caprover + laravel
 
 ## Más Sobre Mí
 
