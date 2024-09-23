@@ -2,6 +2,35 @@
 
 Bienvenido a mi portafolio. Aquí puedes encontrar algunos de mis proyectos y trabajos destacados.
 
+## Más Sobre Mí
+
+### Habilidades
+
+#### Frontend
+- **Angular**: Experto
+- **Ionic**
+- **React**
+- **Vue.js**
+- **Flutter**
+- **Clean Code**
+- **SOLID**
+
+#### Backend
+- **Node.js**
+- **Express**
+- **Laravel**
+- **Django**
+- **AdonisJs**
+
+#### DevOps
+- **Docker**
+- **AWS**: SES, EC2, ECS, SNS, Lambda, CodeCommit, Route53, VPC y mas...
+
+#### Testing
+- **JMeter**: Pruebas de carga
+- **TDD**
+- **Jest**
+
 ## Proyectos Destacados
 
 - [Autenticacion NodeJS + JWT + Express + MongoDB + Sdk Hedera](https://vercel-demo-one-plum.vercel.app/api-docs/)
@@ -16,31 +45,5 @@ Bienvenido a mi portafolio. Aquí puedes encontrar algunos de mis proyectos y tr
   - Creación y eliminación de tareas empleando Ionic Standalone + Patrón Redux.
   - Deploy en netlify
 
- 
-## Technologies and Tools
-- Frontend
-• Expert Angular
-• Ionic
-• React
-• Vuejs
-• Flutter
-• Clean Code
-• Solid
 
-- Backend
-•  Node.js
-•  Express
-•  Laravel
-•  Django
-•  AdonisJs
-
-
-- DevOps
-•  Docker
-•  AWS (SES, EC2, ECS, EKS)
-
-- Testing
-•  JMETER
-•  TDD
-•  JEST
 
