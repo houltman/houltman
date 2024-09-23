@@ -10,7 +10,7 @@ Bienvenido a mi portafolio. Aquí puedes encontrar algunos de mis proyectos y tr
   - Middleware de Roles  y protección de rutas.
   - Middleware RateLimit Protección de Api.
   - Creación y listado de token en la red Hedera mediante su SDK.
-  - Deploy en vercel.
+  - ***Deploy en vercel.***
 
 - Analista de calidad en Sportyeah.
   - [Recomendación de Optimización de endpoint listado de noticias](https://drive.google.com/file/d/1uwQx5byb6QhX3RIUGDMos44fCyHsjg3I/view?usp=sharing)
@@ -20,7 +20,7 @@ Bienvenido a mi portafolio. Aquí puedes encontrar algunos de mis proyectos y tr
 
 - [Listado de tareas con Ionic + Redux](https://todoionic-ngrx.netlify.app/)
   - Creación y eliminación de tareas empleando Ionic Standalone + Patrón Redux.
-  - Deploy en netlify
+  - ***Deploy en netlify***
 
 ## Más Sobre Mí
 
