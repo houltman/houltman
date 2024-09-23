@@ -1,4 +1,11 @@
-## Hi there 👋
+# Mi Portafolio
+
+Bienvenido a mi portafolio. Aquí puedes encontrar algunos de mis proyectos y trabajos destacados.
+
+## Proyectos Destacados
+
+- [Autenticacion JWT + Express + MongoDB](https://vercel-demo-one-plum.vercel.app/api-docs/)
+  - Una Api para gentionar autenticacion mediante JWT , Express , Node , MongoDB
 
 
 - 🔭 
