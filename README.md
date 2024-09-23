@@ -24,6 +24,7 @@ Bienvenido a mi portafolio. Aquí puedes encontrar algunos de mis proyectos y tr
  
 - [Deploy Docker + caprover + laravel](https://github.com/houltman/caprover-laravel.git)
   - Anexo repositorio, docker + caprover + laravel
+  - ***Deploy Caprover***
 
 ## Más Sobre Mí
 
