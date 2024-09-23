@@ -4,14 +4,19 @@ Bienvenido a mi portafolio. Aquí puedes encontrar algunos de mis proyectos y tr
 
 ## Proyectos Destacados
 
-- [Autenticacion JWT + Express + MongoDB](https://vercel-demo-one-plum.vercel.app/api-docs/)
+- [Autenticacion NodeJS + JWT + Express + MongoDB + Sdk Hedera](https://vercel-demo-one-plum.vercel.app/api-docs/)
   - Una Api para gentionar autenticación mediante JWT , Express , Node , MongoDB
   - Documentacion con Swagger
   - Middleware de Roles
   - Middleware RateLimit
+  - Creación y listado de token en la red Hedera mediante su SDK
+  - Despliegue en vercel
+ 
+- [Listado de tareas con Ionic + Redux](https://todoionic-ngrx.netlify.app/)
+  - Creación y eliminación de tareas empleando Ionic Standalone + Patrón Redux.
+  - Despliegue en netlify
 
-
-- 🔭 
+ 
 ## Technologies and Tools
 - Frontend
 • Expert Angular
