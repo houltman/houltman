@@ -5,12 +5,12 @@ Bienvenido a mi portafolio. Aquí puedes encontrar algunos de mis proyectos y tr
 ## Proyectos Destacados
 
 - [Autenticacion NodeJS + JWT + Express + MongoDB + Sdk Hedera](https://vercel-demo-one-plum.vercel.app/api-docs/)
-  - Una Api para gentionar autenticación mediante JWT , Express , Node , MongoDB
-  - Documentacion con Swagger
-  - Middleware de Roles
-  - Middleware RateLimit
-  - Creación y listado de token en la red Hedera mediante su SDK
-  - Deploy en vercel
+  - Una Api para gestionar autenticación mediante JWT , Express , Node , MongoDB + sdk Hedera.
+  - Documentación Api con Swagger.
+  - Middleware de Roles  y protección de rutas.
+  - Middleware RateLimit Protección de Api.
+  - Creación y listado de token en la red Hedera mediante su SDK.
+  - Deploy en vercel.
  
 - [Listado de tareas con Ionic + Redux](https://todoionic-ngrx.netlify.app/)
   - Creación y eliminación de tareas empleando Ionic Standalone + Patrón Redux.
@@ -22,7 +22,7 @@ Bienvenido a mi portafolio. Aquí puedes encontrar algunos de mis proyectos y tr
 
 #### Frontend
 - **Angular**: Experto
-- **Ionic**
+- **Ionic**: Experto
 - **React**
 - **Vue.js**
 - **Flutter**
@@ -30,15 +30,16 @@ Bienvenido a mi portafolio. Aquí puedes encontrar algunos de mis proyectos y tr
 - **SOLID**
 
 #### Backend
-- **Node.js**
-- **Express**
-- **Laravel**
+- **Node.js**: Experto
+- **Express**: Experto
+- **Laravel**: Experto
 - **Django**
 - **AdonisJs**
 
 #### DevOps
 - **Docker**
 - **AWS**: SES, EC2, ECS, SNS, Lambda, CodeCommit, Route53, VPC y mas...
+- **Digital Ocean** : Droplets, Spaces.
 
 #### Testing
 - **JMeter**: Pruebas de carga
