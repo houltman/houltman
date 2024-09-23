@@ -11,13 +11,14 @@ Bienvenido a mi portafolio. Aquí puedes encontrar algunos de mis proyectos y tr
   - Middleware RateLimit Protección de Api.
   - Creación y listado de token en la red Hedera mediante su SDK.
   - Deploy en vercel.
+
+- Analista de calidad en Sportyeah.
+  - [optimizacion de endpoinnt listado de noticias](https://drive.google.com/file/d/1uwQx5byb6QhX3RIUGDMos44fCyHsjg3I/view?usp=sharing)
+  - <a href="https://drive.google.com/file/d/1uwQx5byb6QhX3RIUGDMos44fCyHsjg3I/view?usp=sharing" target="_blank">optimizacion de endpoint listado de noticias</a>
  
 - [Listado de tareas con Ionic + Redux](https://todoionic-ngrx.netlify.app/)
   - Creación y eliminación de tareas empleando Ionic Standalone + Patrón Redux.
   - Deploy en netlify
- 
-- Analista de calidad en Sportyeah.
-  - [optimizacion de endpoinnt listado de noticias](https://drive.google.com/file/d/1uwQx5byb6QhX3RIUGDMos44fCyHsjg3I/view?usp=sharing) 
 
 ## Más Sobre Mí
 
