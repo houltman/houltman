@@ -10,11 +10,11 @@ Bienvenido a mi portafolio. Aquí puedes encontrar algunos de mis proyectos y tr
   - Middleware de Roles
   - Middleware RateLimit
   - Creación y listado de token en la red Hedera mediante su SDK
-  - Despliegue en vercel
+  - Deploy en vercel
  
 - [Listado de tareas con Ionic + Redux](https://todoionic-ngrx.netlify.app/)
   - Creación y eliminación de tareas empleando Ionic Standalone + Patrón Redux.
-  - Despliegue en netlify
+  - Deploy en netlify
 
  
 ## Technologies and Tools
