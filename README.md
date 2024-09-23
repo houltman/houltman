@@ -13,10 +13,10 @@ Bienvenido a mi portafolio. Aquí puedes encontrar algunos de mis proyectos y tr
   - Deploy en vercel.
 
 - Analista de calidad en Sportyeah.
-  - [Recomendación de Optimización de endpoinnt listado de noticias](https://drive.google.com/file/d/1uwQx5byb6QhX3RIUGDMos44fCyHsjg3I/view?usp=sharing)
-  - [Recomendación de Seguridad y Vulnerabilidad en transaciones entre usuarios] (https://drive.google.com/file/d/1HZ2Qhx8r8L84amjMy5HG2ULdZJVV6BBm/view?usp=sharing)
-  - [Recomendación Vulnerabilidad en Api envio de user_id como parámetro] (https://drive.google.com/file/d/10qv3aMpcpRdcHi0RUslAU4eYXP2vzFQ8/view?usp=sharing)
-  - [Evaluación de redimiento no recomendado, y duplicidad en Livescore y ] (https://drive.google.com/file/d/1AS36NqEm_vGyOCcbb65FAMQ4YuiN3YBZ/view?usp=sharing)
+  - [Recomendación de Optimización de endpoint listado de noticias](https://drive.google.com/file/d/1uwQx5byb6QhX3RIUGDMos44fCyHsjg3I/view?usp=sharing)
+  - [Recomendación de Seguridad y Vulnerabilidad en transaciones entre usuarios](https://drive.google.com/file/d/1HZ2Qhx8r8L84amjMy5HG2ULdZJVV6BBm/view?usp=sharing)
+  - [Recomendación Vulnerabilidad en Api envio de user_id como parámetro](https://drive.google.com/file/d/10qv3aMpcpRdcHi0RUslAU4eYXP2vzFQ8/view?usp=sharing)
+  - [Evaluación de redimiento no recomendado, y duplicidad en Livescore](https://drive.google.com/file/d/1AS36NqEm_vGyOCcbb65FAMQ4YuiN3YBZ/view?usp=sharing)
 
 - [Listado de tareas con Ionic + Redux](https://todoionic-ngrx.netlify.app/)
   - Creación y eliminación de tareas empleando Ionic Standalone + Patrón Redux.
