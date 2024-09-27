@@ -4,7 +4,7 @@ Bienvenido a mi portafolio. Aquí puedes encontrar algunos de mis proyectos y tr
 
 ## Proyectos Destacados
 
-- [Autenticacion NodeJS + JWT + Express + MongoDB + Sdk Hedera](https://vercel-demo-one-plum.vercel.app/api-docs/)
+- [Autenticación NodeJS + JWT + Express + MongoDB + Sdk Hedera](https://vercel-demo-one-plum.vercel.app/api-docs/)
   - Una Api para gestionar autenticación mediante JWT , Express , Node , MongoDB + sdk Hedera.
   - Documentación Api con Swagger.
   - Middleware de Roles (protección de rutas), Middleware RateLimit Protección de Api.
