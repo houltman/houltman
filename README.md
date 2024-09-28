@@ -13,6 +13,11 @@ Bienvenido a mi portafolio. Aquí puedes encontrar algunos de mis proyectos y tr
   - ***Despliegue en Vercel***: Implementación y despliegue de la API en la plataforma Vercel.
  
 - [Autenticación Laravel + Passport + Mysql + Sdk ventas de cursos](https://api-cursos-hvmk.onrender.com/api/documentation)
+  - ***Autenticación con Laravel Passport**: Implementación de autenticación segura mediante OAuth2 con Laravel Passport.
+  - ***Gestión de Usuarios***: Registro, login y gestión de usuarios con roles y permisos.
+  - Base de Datos MySQL: Almacenamiento eficiente y seguro de datos de usuarios y cursos.
+  - SDK de Ventas de Cursos: Integración de un SDK para gestionar la creación, listado y venta de cursos.
+  - Documentación de la API con Swagger: Generación automática de documentación de la API para facilitar su uso y desarrollo.
   - ***Despliegue en Render***: Implementación y despliegue de la API en la plataforma Render.
 
 - Analista de calidad en Sportyeah.
