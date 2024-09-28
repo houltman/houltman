@@ -11,6 +11,9 @@ Bienvenido a mi portafolio. Aquí puedes encontrar algunos de mis proyectos y tr
   - ***Rate Limiting***: Protección de la API contra abusos mediante limitación de tasa.
   - Gestión de Tokens en Hedera: Creación y listado de tokens en la red Hedera utilizando su SDK.
   - ***Despliegue en Vercel***: Implementación y despliegue de la API en la plataforma Vercel.
+ 
+- [Autenticación Laravel + Passport + Mysql + Sdk ventas de cursos](https://api-cursos-hvmk.onrender.com/api/documentation)
+  - ***Despliegue en Render***: Implementación y despliegue de la API en la plataforma Render.
 
 - Analista de calidad en Sportyeah.
   - [Recomendación de Optimización de endpoint listado de noticias](https://drive.google.com/file/d/1uwQx5byb6QhX3RIUGDMos44fCyHsjg3I/view?usp=sharing)
@@ -20,7 +23,7 @@ Bienvenido a mi portafolio. Aquí puedes encontrar algunos de mis proyectos y tr
 
 - [Listado de tareas con Ionic + Redux](https://todoionic-ngrx.netlify.app/)
   - Creación y eliminación de tareas empleando Ionic Standalone + Patrón Redux.
-  - ***Deploy en netlify***
+  - ***Despliegue en netlify***: Implementación y despliegue de la API en la plataforma netlify.
  
 - [Deploy Docker + caprover + laravel](https://github.com/houltman/caprover-laravel.git)
   - Anexo repositorio, docker + caprover + laravel
