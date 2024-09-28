@@ -5,20 +5,20 @@ Bienvenido a mi portafolio. Aquí puedes encontrar algunos de mis proyectos y tr
 ## Proyectos Destacados
 
 - [Autenticación NodeJS + JWT + Express + MongoDB + Sdk Hedera](https://vercel-demo-one-plum.vercel.app/api-docs/)
-  - ***Autenticación JWT**: Implementación de autenticación segura mediante JSON Web Tokens.
+  - **Autenticación JWT**: Implementación de autenticación segura mediante JSON Web Tokens.
   - Documentación con Swagger: Generación automática de documentación de la API.
-  - ***Middleware de Roles**: Protección de rutas según roles de usuario.
-  - ***Rate Limiting***: Protección de la API contra abusos mediante limitación de tasa.
+  - **Middleware de Roles**: Protección de rutas según roles de usuario.
+  - **Rate Limiting**: Protección de la API contra abusos mediante limitación de tasa.
   - Gestión de Tokens en Hedera: Creación y listado de tokens en la red Hedera utilizando su SDK.
-  - ***Despliegue en Vercel***: Implementación y despliegue de la API en la plataforma Vercel.
+  - **Despliegue en Vercel**: Implementación y despliegue de la API en la plataforma Vercel.
  
 - [Autenticación Laravel + Passport + Mysql + Sdk ventas de cursos](https://api-cursos-hvmk.onrender.com/api/documentation)
-  - ***Autenticación con Laravel Passport**: Implementación de autenticación segura mediante OAuth2 con Laravel Passport.
-  - ***Gestión de Usuarios***: Registro, login y gestión de usuarios con roles y permisos.
+  - **Autenticación con Laravel Passport**: Implementación de autenticación segura mediante OAuth2 con Laravel Passport.
+  - **Gestión de Usuarios**: Registro, login y gestión de usuarios con roles y permisos.
   - Base de Datos MySQL: Almacenamiento eficiente y seguro de datos de usuarios y cursos.
   - SDK de Ventas de Cursos: Integración de un SDK para gestionar la creación, listado y venta de cursos.
   - Documentación de la API con Swagger: Generación automática de documentación de la API para facilitar su uso y desarrollo.
-  - ***Despliegue en Render***: Implementación y despliegue de la API en la plataforma Render.
+  - **Despliegue en Render**: Implementación y despliegue de la API en la plataforma Render.
 
 - Analista de calidad en Sportyeah.
   - [Recomendación de Optimización de endpoint listado de noticias](https://drive.google.com/file/d/1uwQx5byb6QhX3RIUGDMos44fCyHsjg3I/view?usp=sharing)
