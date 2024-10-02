@@ -31,8 +31,8 @@ Bienvenido a mi portafolio. Aquí puedes encontrar algunos de mis proyectos y tr
   - [Repositorio github](https://github.com/houltman/to-do-list-ionic-ngrx-standalone)
   - ***Despliegue en netlify***: Implementación y despliegue de la API en la plataforma netlify.
  
-- [Deploy Docker + caprover + laravel](https://github.com/houltman/caprover-laravel.git)
-  - Anexo repositorio, docker + caprover + laravel
+- Deploy Docker + caprover + laravel
+  - [Anexo repositorio, docker + caprover + laravel](https://github.com/houltman/caprover-laravel.git)
   - ***Deploy Caprover***
 
 ## Más Sobre Mí
@@ -64,3 +64,4 @@ Bienvenido a mi portafolio. Aquí puedes encontrar algunos de mis proyectos y tr
 - **JMeter**: Pruebas de carga
 - **TDD**
 - **Jest**
+- **Jasmin**
