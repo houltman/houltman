@@ -19,6 +19,13 @@ Bienvenido a mi portafolio. Aquí puedes encontrar algunos de mis proyectos y tr
   - SDK de Ventas de Cursos: Integración de un SDK para gestionar la creación, listado y venta de cursos.
   - Documentación de la API con Swagger: Generación automática de documentación de la API para facilitar su uso y desarrollo.
   - **Despliegue en Render**: Implementación y despliegue de la API en la plataforma Render.
+ 
+- [Autenticación Vuejs + Api + JWT + Express + MongoDB + Sdk Hedera](https://front-demo-nu.vercel.app/)
+  - **Autenticación JWT**: Implementación de autenticación segura mediante JSON Web Tokens.
+  - **Middleware de Rutas**: Protección de rutas con autenticación.
+  - Gestión de Tokens en Hedera: Creación y listado de tokens en la red Hedera utilizando su SDK.
+  - Validaciones y aplicacion de Interceptor en las peticiones al api.
+  - **Despliegue en Vercel**: Implementación y despliegue de la API en la plataforma Vercel.
 
 - Analista de calidad en Sportyeah.
   - [Recomendación de Optimización de endpoint listado de noticias](https://drive.google.com/file/d/1uwQx5byb6QhX3RIUGDMos44fCyHsjg3I/view?usp=sharing)
