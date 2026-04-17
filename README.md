@@ -52,7 +52,6 @@ Bienvenido a mi portafolio. Aquí puedes encontrar algunos de mis proyectos y tr
 - **Vue.js**
 - **Flutter**
 - **Clean Code**
-- **SOLID**
 
 #### Backend
 - **Node.js**: Experto
@@ -65,6 +64,8 @@ Bienvenido a mi portafolio. Aquí puedes encontrar algunos de mis proyectos y tr
 - **Docker**
 - **AWS**: SES, EC2, ECS, SNS, Lambda, CodeCommit, Route53, VPC y mas...
 - **Digital Ocean** : Droplets, Spaces.
+- **Google Cloud Platforms**
+- **GitHub Actions**
 
 #### Testing
 - **JMeter**: Pruebas de carga
