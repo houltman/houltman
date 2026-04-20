@@ -51,7 +51,6 @@ Bienvenido a mi portafolio. Aquí puedes encontrar algunos de mis proyectos y tr
 - **React**
 - **Vue.js**
 - **Flutter**
-- **Clean Code**
 
 #### Backend
 - **Node.js**: Experto
