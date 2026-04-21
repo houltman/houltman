@@ -65,12 +65,3 @@ Bienvenido a mi portafolio. Aquí puedes encontrar algunos de mis proyectos y tr
 * **Digital Ocean:** Despliegue y administración de Droplets y almacenamiento en Spaces.
 * **Google Cloud:** Implementación de soluciones escalables y agentes de IA.
 
-
-
-#### Testing
-- **JMeter**: Pruebas de carga
-- **TDD**
-- **Jest**
-- **Jasmin**
-- **Appium**
-- **Selenium**
