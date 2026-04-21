@@ -50,6 +50,23 @@ Bienvenido a mi portafolio. Aquí puedes encontrar algunos de mis proyectos y tr
 
 ### Habilidades
 
+### 🛠️ Technical Stack & Expertise
+
+| Frontend | Backend | DevOps & Cloud | Testing |
+| :--- | :--- | :--- | :--- |
+| 🅰️ **Angular** (Experto) | 🟢 **Node.js** (Experto) | 🐳 **Docker** | 📈 **JMeter** (Carga) |
+| 📱 **Ionic** (Experto) | 🚀 **Express** (Experto) | ☁️ **AWS** (EC2, Lambda, VPC...) | 🧪 **TDD** |
+| ⚛️ **React** | 🟠 **Laravel** (Experto) | 🌊 **Digital Ocean** | 🃏 **Jest** |
+| 🖖 **Vue.js** | 🎸 **AdonisJs** | 🌍 **Google Cloud (GCP)** | 🛡️ **Jasmin** |
+| 🐦 **Flutter** | 🐍 **Django** | 🤖 **GitHub Actions** | 📱 **Appium** / **Selenium** |
+
+---
+
+#### 🌐 Detalle de Infraestructura Cloud
+* **AWS:** Dominio de arquitectura serverless y gestión de recursos (SES, EC2, ECS, SNS, Lambda, CodeCommit, Route53, VPC y más).
+* **Digital Ocean:** Despliegue y administración de Droplets y almacenamiento en Spaces.
+* **Google Cloud:** Implementación de soluciones escalables y agentes de IA.
+
 #### Frontend
 - **Angular**: Experto
 - **Ionic**: Experto
