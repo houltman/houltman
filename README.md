@@ -4,10 +4,10 @@ Bienvenido a mi portafolio. Aquí puedes encontrar algunos de mis proyectos y tr
 
 ## Proyectos Destacados
 
-- CRM AVANZADO para Brokers con arquitectura Multitenant
-  - Plataforma CRM para brokers con automatización comercial, 
-  - Gestión de leads, autenticación avanzada, cupones
-  - Plantillas de email 
+- CRM AVANZADO para Brokers con Arquitectura Multitenant.
+  - Plataforma CRM para brokers con automatización comercial.
+  - Gestión de leads, autenticación avanzada, cupones.
+  - Plantillas de email. 
   - Control por roles/permisos y trazabilidad operativa. 
 - [Autenticación NodeJS + JWT + Express + MongoDB + Sdk Hedera](https://vercel-demo-one-plum.vercel.app/api-docs/)
   - **Autenticación JWT**: Implementación de autenticación segura mediante JSON Web Tokens.
@@ -46,7 +46,6 @@ Bienvenido a mi portafolio. Aquí puedes encontrar algunos de mis proyectos y tr
   - [Anexo repositorio, docker + caprover + laravel](https://github.com/houltman/caprover-laravel.git)
   - ***Deploy Caprover***
 
-## Más Sobre Mí
 
 ### 🛠️ Technical Stack & Expertise
 
