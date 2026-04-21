@@ -4,11 +4,11 @@ Bienvenido a mi portafolio. Aquí puedes encontrar algunos de mis proyectos y tr
 
 ## Proyectos Destacados
 
-- CRM AVANZADO para Brokers NEW
- - APlataforma CRM para brokers con automatización comercial, 
- - Agestión de leads, autenticación avanzada, cupones
- - Aplantillas de email 
- - Acontrol por roles/permisos y trazabilidad operativa. 
+- CRM AVANZADO para Brokers
+  - APlataforma CRM para brokers con automatización comercial, 
+  - Agestión de leads, autenticación avanzada, cupones
+  - plantillas de email 
+  - Acontrol por roles/permisos y trazabilidad operativa. 
 - [Autenticación NodeJS + JWT + Express + MongoDB + Sdk Hedera](https://vercel-demo-one-plum.vercel.app/api-docs/)
   - **Autenticación JWT**: Implementación de autenticación segura mediante JSON Web Tokens.
   - Documentación con Swagger: Generación automática de documentación de la API.
