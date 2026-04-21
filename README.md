@@ -48,8 +48,6 @@ Bienvenido a mi portafolio. Aquí puedes encontrar algunos de mis proyectos y tr
 
 ## Más Sobre Mí
 
-### Habilidades
-
 ### 🛠️ Technical Stack & Expertise
 
 | Frontend | Backend | DevOps & Cloud | Testing |
@@ -67,26 +65,7 @@ Bienvenido a mi portafolio. Aquí puedes encontrar algunos de mis proyectos y tr
 * **Digital Ocean:** Despliegue y administración de Droplets y almacenamiento en Spaces.
 * **Google Cloud:** Implementación de soluciones escalables y agentes de IA.
 
-#### Frontend
-- **Angular**: Experto
-- **Ionic**: Experto
-- **React**
-- **Vue.js**
-- **Flutter**
 
-#### Backend
-- **Node.js**: Experto
-- **Express**: Experto
-- **Laravel**: Experto
-- **Django**
-- **AdonisJs**
-
-#### DevOps
-- **Docker**
-- **AWS**: SES, EC2, ECS, SNS, Lambda, CodeCommit, Route53, VPC y mas...
-- **Digital Ocean** : Droplets, Spaces.
-- **Google Cloud Platforms**
-- **GitHub Actions**
 
 #### Testing
 - **JMeter**: Pruebas de carga
