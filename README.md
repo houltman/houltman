@@ -4,7 +4,7 @@ Bienvenido a mi portafolio. Aquí puedes encontrar algunos de mis proyectos y tr
 
 ## Proyectos Destacados
 
-- CRM AVANZADO para Brokers
+- CRM AVANZADO para Brokers con arquitectura Multitenant
   - Plataforma CRM para brokers con automatización comercial, 
   - Gestión de leads, autenticación avanzada, cupones
   - Plantillas de email 
