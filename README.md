@@ -3,6 +3,10 @@
 Bienvenido a mi portafolio. Aquí puedes encontrar algunos de mis proyectos y trabajos destacados.
 
 ## Proyectos Destacados
+- Agente / Bot de WhatsApp Inteligente para Automatización Comercial
+  - Tecnología Empleada: Integración avanzada utilizando la Evolution API para la conexión con la red de WhatsApp, FastAPI (Python)     para el backend de alta velocidad, y modelos de lenguaje avanzados Gemini (Google Vertex AI) para el procesamiento de lenguaje      natural y la IA conversacional.
+  - Gestión de Memoria y Contexto: Implementación de sistemas de memoria a largo y corto plazo para mantener el hilo de las             conversaciones, permitiendo interacciones fluidas, humanas y contextualizadas con los leads o clientes.
+  - Automatización y Captura de Leads: Flujos automatizados para la cualificación inicial de contactos, extracción de datos clave       en tiempo real y sincronización inmediata con el CRM a través de Webhooks.
 
 - CRM AVANZADO para Brokers con Arquitectura Multitenant.
   - Plataforma CRM para brokers con automatización comercial.
