@@ -3,7 +3,7 @@
 Bienvenido a mi portafolio. Aquí puedes encontrar algunos de mis proyectos y trabajos destacados.
 
 ## Proyectos Destacados
-- [Agente / Bot de WhatsApp Inteligente para Automatización + Api + CRM + ](https://youtu.be/Om1Eqp_CH9g)
+- [Agente / Bot de WhatsApp Inteligente para Automatización + Api + CRM + N8N ](https://youtu.be/Om1Eqp_CH9g)
   - Tecnología Empleada: Integración avanzada utilizando Api de MEta para la conexión con la red de WhatsApp, NodeJS para el backend de alta velocidad, y modelos de lenguaje avanzados Gemini (Google Vertex AI) para el procesamiento de lenguaje natural y la IA conversacional orquestado con n8n.
   - Gestión de Memoria y Contexto: Implementación de sistemas de memoria a largo y corto plazo para mantener el hilo de las             conversaciones, permitiendo interacciones fluidas, humanas y contextualizadas con los leads o clientes.
   - Automatización y Captura de Leads: Flujos automatizados para la cualificación inicial de contactos, extracción de datos clave       en tiempo real y sincronización inmediata con el CRM a través de Webhooks.
